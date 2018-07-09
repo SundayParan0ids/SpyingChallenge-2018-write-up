@@ -9,7 +9,7 @@ Celui de Jhack Chirhack est dispo ici : https://inshallhack.org/jhack-chirhack-s
 Nous avons une liste de personnes à nous mettre dans la poche afin de récupérer un maximum d'informations, si possible compromettantes. SupremIoT cherche à faire de l'évasion et du blanchiment ? Nous serons donc la Monaco Investment Bank, spécialisée dans l'optimisation, et cherchant à diversifier ses offres en y incluant des cryptomonnaies.
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)   
+![alt text](https://raw.githubusercontent.com/SundayParan0ids/SpyingChallenge-2018-write-up/master/mib.jpg)   
 The blockchain defenders !
 
 Monaco Investment Bank, c'est:
@@ -28,8 +28,8 @@ Volkmar repère discrètement quelques documents intéressants au comptoir de Su
 **Advei**: Nous prenons possession d'une table et d'un sofa à l'écart. On pose les ordis, sur des pages de finances, on y laisse traîner un Nice Matin récupéré dans l'avion, une petite feuille avec marqué Monaco Investment Bank, et nous voilà avec des locaux dignes de ce nom. Bill invite Advei à venir parler business tranquillement. Pendant qu'ils parlent, notre caméra espion filme le tout. Advei commence à se détendre: nous sommes après tout sur la même longueur d'ondes lorsque l'on parle de blanchi... d'optimisation fiscale. Nous cherchons à vérifier si nous avons des clients en commun. Advei hésite, mais en lui garantissant que nous ne diront pas que les infos viennent de lui, il se met à parler. Nous apprenons que leur solution a été pentestée par Digital Security. Alors qu'il nous fait signer un document, nous en profitons pour photographier discrètement le reste de son dossier resté sur la table. Bill parle de marché chinois pour mettre l'accent sur les activités de May, mais Advei dit qu'il se méfie de la Chine. Cette info nous sera bien utile plus tard !
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)   
- Confidence pour confidence (c’est moi que j’aime à travers vous)
+![alt text](https://raw.githubusercontent.com/SundayParan0ids/SpyingChallenge-2018-write-up/master/IMG_4926.JPG)   
+Confidence pour confidence (c’est moi que j’aime à travers vous)
 
 **Spy VS Spy**: tout contents de notre collecte d'infos, nous commençons à débriefer un peu bruyamment... quand nous réalisons soudain qu'une autre équipe semble nous écouter à grande distance ! Décidément, même au sein de notre banque d'investissement nous n'avons pas un tel budget matériel ;)
 Nous serons plus discrets désormais.
@@ -41,7 +41,7 @@ Nous serons plus discrets désormais.
 **May**: Nous la voyons enfin au stand de SupremIoT ! Eddie vient taper la discute. Elle ne semble pas très réceptive, mais Eddie tient à lui laisser une carte de visite. Il fait alors tomber 'sans le faire exprès' quelques cartes Magic. Guillaume bondit: quel scandale ! Ces cartes valent hyper cher ! Eddie cherche à lui voler c'est sûr. Il enchaîne alors: mais ce tatouage, c'est un lotus noir ! Tu joues à Magic ?
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)   
+![alt text](https://raw.githubusercontent.com/SundayParan0ids/SpyingChallenge-2018-write-up/master/RHWO4393.JPG)   
 Et là, il joue une boule de feu alors qu’il n’a pas de mana rouge ! La criiise !
 
 Alors que May acquiesce, Guillaume s'installe alors au bureau de SupremIoT et commence à lui montrer quelques cartes dont il est fier, ce qui laisse toute latitude à Bill et Volkmar pour subtiliser les QR-Codes qui se trouvent sur le bureau. Guillaume finit par prendre congé, il se sent maintenant comme chez lui chez SupremIoT.
@@ -51,7 +51,7 @@ Alors que May acquiesce, Guillaume s'installe alors au bureau de SupremIoT et co
 **Les QR-Codes**: quelle joie d'avoir récupéré ces morceaux de papier au logo de SupremIoT ! Après avoir donné notre email dans le formulaire associé, Volkmar réalise que le lien est avec Zataz.com. Après vérification, il se trouve qu'il s'agit d'une fausse piste. Nous nous sommes faits avoir comme des débutants ! Nous restons sur nos gardes vis à vis de notre boîte email. Si un mail de phishing pointe son nez, nous sommes prêts à balancer de fausses infos !
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)   
+![alt text](https://raw.githubusercontent.com/SundayParan0ids/SpyingChallenge-2018-write-up/master/IMG_4949.JPG)   
 Trop bieeeeen ! (en fait, non)
 
 **Katrien**: la fille de Fit Bit and Strong est présente elle aussi. Guillaume lui amène Volkmar par la main, disant qu'il est trop timide pour l'approcher directement et lui demandant si elle a des conseils fitness pour lui. Lui demandant ce qu'elle fait là, nous aurons confirmation qu'elle travaille chez SupremIoT. Guillaume se demande bien pourquoi la célèbre Katrien s'abaisse à un tel boulot et finit par lui faire dire qu'elle déteste Umberto, mais c'est à peu près tout ce que nous obtiendrons. (full disclosure: on ne s'attendait pas à la trouver à la NDH, du coup on est allés la voir sans trop d'idée en tête. Bilan des courses: toujours prévoir à l'avance ce qu'on veut récupérer comme info, sinon on pédale dans la semoule !)
@@ -63,7 +63,7 @@ Nous cherchons à creuser un peu plus du côté de Digital Security mais nous re
 Les choses se corsent: nous devons filer Advei ET Benoit, à 15h précises. Il est temps de nous séparer en deux binômes.
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)   
+![alt text](https://raw.githubusercontent.com/SundayParan0ids/SpyingChallenge-2018-write-up/master/camouflage.png)   
 OSS-117, à côté de ça, c’est du pipi de chat !
 
 **Advei: nous devons récupérer tout son argent par n'importe quel moyen.**
@@ -78,7 +78,7 @@ Guillaume ouvre la page des comptes de Monaco Investment Bank, et le QR-Code qui
 Nous rassurons Advei, lui disant qu'il a fait ce qu'il faut, et que dans quelques années nous rirons de cette anecdote. Nous lui donnons rendez-vous le soir même pour faire la fête. Nous prenons également son numéro de téléphone pour le tenir au courant :p
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)   
+![alt text](https://raw.githubusercontent.com/SundayParan0ids/SpyingChallenge-2018-write-up/master/LPCX7658.JPG)   
 Y’a pas que des bitcoins là-dedans…
 
 **Benoit: nous devons le faire avouer qu'il cherche à détourner l'argent de SupremIoT.**
@@ -88,7 +88,7 @@ Eddie prend alors Benoit à partie et lui mets la pression, menaçant de rendre 
 Eddie nous mets au courant. Nous décidons alors de partir sur une autre approche: Bill va approcher Benoit, lui dire qu'il a entendu Eddie menacer de tout dévoiler, lui dire tout le mal qu'il pense d'Eddie (cet employé qui cherche à partir des MiB) et lui proposer de l'aider à faire disparaitre l'argent, ce qui prouverait sa culpabilité. Mais trop tard, Benoit aura disparu avant que nous n'ayons le temps de faire quoi que ce soit.
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)   
+![alt text](https://raw.githubusercontent.com/SundayParan0ids/SpyingChallenge-2018-write-up/master/GJQW9717.JPG)   
 Les papiers recyclables, dans la poubelle jaune !
 
 Fin de la seconde phase, objectifs atteints !
