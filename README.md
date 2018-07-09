@@ -10,7 +10,7 @@ Nous avons une liste de personnes à nous mettre dans la poche afin de récupér
 
 
 ![alt text](https://raw.githubusercontent.com/SundayParan0ids/SpyingChallenge-2018-write-up/master/mib.jpg)   
-The blockchain defenders !
+*The blockchain defenders !*
 
 Monaco Investment Bank, c'est:
 
@@ -29,7 +29,7 @@ Volkmar repère discrètement quelques documents intéressants au comptoir de Su
 
 
 ![alt text](https://raw.githubusercontent.com/SundayParan0ids/SpyingChallenge-2018-write-up/master/IMG_4926.JPG)   
-Confidence pour confidence (c’est moi que j’aime à travers vous)
+*Confidence pour confidence (c’est moi que j’aime à travers vous)*
 
 **Spy VS Spy**: tout contents de notre collecte d'infos, nous commençons à débriefer un peu bruyamment... quand nous réalisons soudain qu'une autre équipe semble nous écouter à grande distance ! Décidément, même au sein de notre banque d'investissement nous n'avons pas un tel budget matériel ;)
 Nous serons plus discrets désormais.
@@ -42,7 +42,7 @@ Nous serons plus discrets désormais.
 
 
 ![alt text](https://raw.githubusercontent.com/SundayParan0ids/SpyingChallenge-2018-write-up/master/RHWO4393.JPG)   
-Et là, il joue une boule de feu alors qu’il n’a pas de mana rouge ! La criiise !
+*Et là, il joue une boule de feu alors qu’il n’a pas de mana rouge ! La criiise !*
 
 Alors que May acquiesce, Guillaume s'installe alors au bureau de SupremIoT et commence à lui montrer quelques cartes dont il est fier, ce qui laisse toute latitude à Bill et Volkmar pour subtiliser les QR-Codes qui se trouvent sur le bureau. Guillaume finit par prendre congé, il se sent maintenant comme chez lui chez SupremIoT.
 
@@ -52,7 +52,7 @@ Alors que May acquiesce, Guillaume s'installe alors au bureau de SupremIoT et co
 
 
 ![alt text](https://raw.githubusercontent.com/SundayParan0ids/SpyingChallenge-2018-write-up/master/IMG_4949.JPG)   
-Trop bieeeeen ! (en fait, non)
+*Trop bieeeeen ! (en fait, non)*
 
 **Katrien**: la fille de Fit Bit and Strong est présente elle aussi. Guillaume lui amène Volkmar par la main, disant qu'il est trop timide pour l'approcher directement et lui demandant si elle a des conseils fitness pour lui. Lui demandant ce qu'elle fait là, nous aurons confirmation qu'elle travaille chez SupremIoT. Guillaume se demande bien pourquoi la célèbre Katrien s'abaisse à un tel boulot et finit par lui faire dire qu'elle déteste Umberto, mais c'est à peu près tout ce que nous obtiendrons. (full disclosure: on ne s'attendait pas à la trouver à la NDH, du coup on est allés la voir sans trop d'idée en tête. Bilan des courses: toujours prévoir à l'avance ce qu'on veut récupérer comme info, sinon on pédale dans la semoule !)
 
@@ -64,7 +64,7 @@ Les choses se corsent: nous devons filer Advei ET Benoit, à 15h précises. Il e
 
 
 ![alt text](https://raw.githubusercontent.com/SundayParan0ids/SpyingChallenge-2018-write-up/master/camouflage.png)   
-OSS-117, à côté de ça, c’est du pipi de chat !
+*OSS-117, à côté de ça, c’est du pipi de chat !*
 
 **Advei: nous devons récupérer tout son argent par n'importe quel moyen.**
 
@@ -79,7 +79,7 @@ Nous rassurons Advei, lui disant qu'il a fait ce qu'il faut, et que dans quelque
 
 
 ![alt text](https://raw.githubusercontent.com/SundayParan0ids/SpyingChallenge-2018-write-up/master/LPCX7658.JPG)   
-Y’a pas que des bitcoins là-dedans…
+*Y’a pas que des bitcoins là-dedans…*
 
 **Benoit: nous devons le faire avouer qu'il cherche à détourner l'argent de SupremIoT.**
 
@@ -89,7 +89,7 @@ Eddie nous mets au courant. Nous décidons alors de partir sur une autre approch
 
 
 ![alt text](https://raw.githubusercontent.com/SundayParan0ids/SpyingChallenge-2018-write-up/master/GJQW9717.JPG)   
-Les papiers recyclables, dans la poubelle jaune !
+*Les papiers recyclables, dans la poubelle jaune !*
 
 Fin de la seconde phase, objectifs atteints !
 Nous apprenons plus tard que nous sommes sélectionnés pour la dernière étape, celle de l'intrusion physique. Nous laissons le soin aux premiers de nous faire un write-up, étant arrivés quatrièmes et derniers ;)
