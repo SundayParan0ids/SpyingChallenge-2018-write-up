@@ -35,6 +35,10 @@ Volkmar repère discrètement quelques documents intéressants au comptoir de Su
 Nous serons plus discrets désormais.
 
 **Pickpocket en herbe**: Advei faisant des aller-retour de la chambre secrète au stand, nous avons profité du Street Fighter II arcade situé juste en face de cette chambre afin d’épier ses moindres faits et gestes. À un moment, Guillaume constate un papier dépasser de la poche d’Advei. Sans réfléchir, Eddie part à sa poursuite et profite d’un regroupement de personnes bloquant le parcours de la cible afin de lui dérober discrètement le papier contenant le QR code de la clef secrète de son wallet, le plus naturellement du monde.
+
+![alt text](https://github.com/SundayParan0ids/SpyingChallenge-2018-write-up/blob/master/IMG_2575.JPG)
+
+*Le QRCode de la clef privée récupéré *
  
 **Digital Security**: nous pensons avoir identifié l'agent en question, qui parle régulièrement aux membres de l'équipe SupremIoT. Mais notre demande discrète d'infos sur le pentest reste vaine. (nous avons également SE quelques types qui ne jouaient pas et qui ont dû se demander pourquoi des types dans la finance étaient à la NDH :) )
 
@@ -108,3 +112,6 @@ Guillaume se retrouve dans la chambre forte de SupremIoT. Scandalisé qu'on le m
 Le reste de l'équipe prend alors le gars en filature. Volkmar vient à sa rencontre directement, lui parlant de toutes sortes de choses passionnantes qu'il veut lui vendre, pendant que Eddie fait discrètement une copie de son badge (enfin ça aurait dû se passer comme ça si le matériel avait fonctionné ! :))
 
 Une fois la copie obtenue, l'équipe atteint la chambre forte, libère Guillaume, et procède à une intrusion en règle. Mais ça, c'est une autre histoire...
+
+![alt text](https://github.com/SundayParan0ids/SpyingChallenge-2018-write-up/blob/master/BKBH1429%5B1%5D.JPG)
+*Toute la team avec le gros lot :p *
